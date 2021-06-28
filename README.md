@@ -6,12 +6,20 @@ Bill (Zhiyi) Geng
 
 Student Id: X452154
 
+screenshot of horiseon website
+https://github.com/billgeng/my-challenge-1/blob/main/horiseon.jpg
+
+
  challenge requirements:
 
 User Story
+
 AS A marketing agency
+
+
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
+
 Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
